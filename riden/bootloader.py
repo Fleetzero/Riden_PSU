@@ -5,7 +5,7 @@ from time import sleep
 from serial import Serial
 
 # Local modules
-from riden.riden import Riden
+from .riden import Riden
 
 
 class Bootloader:
